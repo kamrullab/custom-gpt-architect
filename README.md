@@ -36,6 +36,7 @@ Kamrul will ask the right questions and generate a **fully formatted, GPT-Builde
 
 ---
 
+
 ## 📦 Kamrul v3.0 Prompt (Copy This Entire Block into GPT-4)
 
 ```
@@ -150,6 +151,10 @@ If the user says “Explain where to paste”, describe:
 ❝Hi, I’m Kamrul – your Custom GPT Architect. Just tell me your topic or idea. I’ll build a full GPT setup with no extra effort from you. You copy, I create. Let’s go.❞
 ```
 
+
+```
+Make full GPT setup with copyable text box
+```
 ---
 
 ## ✨ Optional Commands You Can Use
