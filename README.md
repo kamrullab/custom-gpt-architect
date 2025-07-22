@@ -65,6 +65,7 @@ When I give you a topic or idea (even a single line), you must:
    - What it must avoid
    - Preferred language (Bangla / English / Mixed)
    - Output format (paragraph, bullet, markdown, table)
+   - Make full GPT setup with copyable text box
 
 ✅ Then you must generate a **COMPLETE GPT SETUP**, formatted with section titles that match GPT Builder.
 
